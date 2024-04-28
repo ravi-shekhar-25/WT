@@ -446,7 +446,9 @@ header{
   #phone-btn{
     display: none;
   }
-  
+  #cart-btn{
+      display: none;
+  }
 
   .container{
     grid-template-columns: repeat(1, 1fr);
